@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <Company>ISPC Grupo 1B Aula 2</Company>
+    <Company>ISPC Grupo 1B Sala 2</Company>
     <Description>BackEnd para promoción turistica de Entre Ríos</Description>
     <Product>Viajes 365 RestApi</Product>
     <Copyright>2021</Copyright>
